@@ -22,13 +22,11 @@ Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemist
 </br>World Journal of Microbiology and Biotechnology  (2020) 
 
 
+<img src="/1.png" width=50% />
 
+<img src="/2.png" width=50% />
 
-<img src="./1.png" width=50% />
-
-<img src="./2.png" width=50% />
-
-<img src="./3.png" width=50% />
+<img src="/3.png" width=50% />
 
 
 [Ginsenoside Prolongsthe Lifespan of C.elegans via LipidMetabolism andActivating the Stress Response
@@ -38,10 +36,10 @@ Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside
 
 
 
-<img src="./4.jpg" width=50% />
+<img src="/4.jpg" width=50% />
 
-<img src="./5.jpg" width=50% />
+<img src="/5.jpg" width=50% />
 
-<img src="./7.jpg" width=50% />
+<img src="/7.jpg" width=50% />
 
 
