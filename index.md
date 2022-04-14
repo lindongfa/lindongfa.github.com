@@ -24,11 +24,11 @@ Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside
 
 
 
-![](/4.png)
+![](/4.jpg)
 
-![](/5.png)
+![](/5.jpg)
 
-![](/7.png)
+![](/7.jpg)
 
 
 [The crucial role of bacterial laccases in the bioremediation of petroleum hydrocarbons](https://sci-hub.se/10.1007/s11274-020-02888-1) 
