@@ -22,7 +22,7 @@ Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemist
 </br>World Journal of Microbiology and Biotechnology  (2020) 
 
 
-<img src="/1.png" width=50% />
+![](/1.png)
 
 <img src="/2.png" width=50% />
 
