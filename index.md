@@ -18,16 +18,15 @@ Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemist
 ## Publication
 
 [The crucial role of bacterial laccases in the bioremediation of petroleum hydrocarbons](https://sci-hub.se/10.1007/s11274-020-02888-1) 
-</br>Zhang, Y., **Lin, D.-F.**, Hao, J., Zhao, Z.-H., & Zhang, Y.-J.
-</br>World Journal of Microbiology and Biotechnology  (2020) 
+<br/>Zhang, Y., **Lin, D.-F.**, Hao, J., Zhao, Z.-H., & Zhang, Y.-J.
+<br/>World Journal of Microbiology and Biotechnology  (2020) 
 
 
 ![](/1.png)
 
-<img src="/2.png" width=50% />
+![](/2.png)
 
-<img src="/3.png" width=50% />
-
+![](/3.png)
 
 [Ginsenoside Prolongsthe Lifespan of C.elegans via LipidMetabolism andActivating the Stress Response
 Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside%20Prolongs%20the%20Lifespan%20of%20C.%20elegans%20via,Metabolism%20and%20Activating%20the%20Stress%20Response%20Signaling%20Pathway)
@@ -36,10 +35,10 @@ Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside
 
 
 
-<img src="/4.jpg" width=50% />
+![](/4.png)
 
-<img src="/5.jpg" width=50% />
+![](/5.png)
 
-<img src="/7.jpg" width=50% />
+![](/7.png)
 
 
