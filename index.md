@@ -35,10 +35,9 @@ Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside
 <br/>Zhang, Y., **Lin, D.-F.**, Hao, J., Zhao, Z.-H., & Zhang, Y.-J.
 <br/>World Journal of Microbiology and Biotechnology  (2020) 
 
-<img src="/1.jpg" width=50%></img>
-![](/2.png)
-
-![](/3.png)
+<img src="./1.jpg" width=50%></img>
+<img src="./2.jpg" width=50%></img>
+<img src="./3.jpg" width=50%></img>
 
 
 
