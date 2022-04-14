@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/lindongfa/lindongfa.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemistry and Molecular Biology. My e-mail is lindf21@mails.jlu.edu.cn. Feel free to contact.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Undergraduate, Jilin University (2017-2021)
+- Master of Science, Jilin University (2021-current)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##  Research Interests
 
-- Bulleted
-- List
+- Biochemistry and Molecular Biology
+- Molecular mechanisms of aging 
+- Bioinformatics
 
-1. Numbered
-2. List
+## Publication
 
-**Bold** and _Italic_ and `Code` text
+[The crucial role of bacterial laccases in the bioremediation of petroleum hydrocarbons](https://sci-hub.se/10.1007/s11274-020-02888-1) 
+</br>Zhang, Y., **Lin, D.-F.**, Hao, J., Zhao, Z.-H., & Zhang, Y.-J.
+</br>World Journal of Microbiology and Biotechnology  (2020) 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lindongfa/lindongfa.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src=1.png width=50% />
 
-### Support or Contact
+<img src=2.png width=50% />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src=3.png width=50% />
+
+
+[Ginsenoside Prolongsthe Lifespan of C.elegans via LipidMetabolism andActivating the Stress Response
+Signaling Pathway](https://www.mdpi.com/1422-0067/22/18/9668#:~:text=Ginsenoside%20Prolongs%20the%20Lifespan%20of%20C.%20elegans%20via,Metabolism%20and%20Activating%20the%20Stress%20Response%20Signaling%20Pathway)
+<br/>Yu, X.; Li, H.; **Lin, D.**; Guo, W.; Xu, Z.; Wang, L.; Guan, S
+<br/>International Journal of Molecular Sciences
+
+
+
+<img src=4.jpg width=50% />
+
+<img src=5.jpg width=50% />
+
+<img src=7.jpg width=50% />
+
+
