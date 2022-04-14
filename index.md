@@ -1,6 +1,6 @@
 ## Bio
 
-Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemistry and Molecular Biology. My e-mail is lindf21@mails.jlu.edu.cn. Feel free to contact.
+Hi I'm Dongfa Lin from Jilin University. A Master student majoring in Biochemistry and Molecular Biology. My E-mail is **lindf21@mails.jlu.edu.cn**. Feel free to contact.
 
 
 ## Education
