@@ -21,9 +21,7 @@ Hi I'm Dongfa Lin from Jilin University, a master student majoring in Biochemist
 <br/>Zhang, Y., **Lin, D.-F.**, Hao, J., Zhao, Z.-H., & Zhang, Y.-J.
 <br/>World Journal of Microbiology and Biotechnology  (2020) 
 
-
-![](/1.png)
-
+<img src="/1.jpg" width=50%></img>
 ![](/2.png)
 
 ![](/3.png)
